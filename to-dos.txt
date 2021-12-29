@@ -1,7 +1,7 @@
 #start screen
   go to coach 100%/40%
   go to table 100%/40% -> show list  
-  options -> add coach/send all(or one coach) pdf list + exit 50%/20%   
+  options -> add coach(waiterId)/send all(or one coach) pdf list + exit 50%/20%   
   
 #Main
   Add/edit button -> then show the list
