@@ -11,3 +11,9 @@
   edit order
   delete order(comfirm)
   go back to main
+
+
+
+Most important:
+  summary for barman (by coach/all) - add all types(ex 5 glasses of house red)  
+  
