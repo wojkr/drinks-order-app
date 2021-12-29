@@ -1,0 +1,13 @@
+#start screen
+  go to coach 100%/40%
+  go to table 100%/40% -> show list  
+  options -> add coach/send all(or one coach) pdf list + exit 50%/20%   
+  
+#Main
+  Add/edit button -> then show the list
+  add new order in to table/coach
+    -drinks list when pressed inside go back (wine glass + bottles + beers + soft + gin port vodka whisky) -> extras (ice/ no ice/ straw/ nr of glasses) -> special comment
+    -finish order(show it & sure?) -> Table number (if not in)-> room number/cash-> comfirm
+  edit order
+  delete order(comfirm)
+  go back to main
